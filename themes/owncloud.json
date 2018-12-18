@@ -15,6 +15,7 @@
   "logo": {
     "mini": "themes/owncloud/cloud-logo-invert.svg",
     "small": "themes/owncloud/cloud-logo-invert.svg",
-    "big": "themes/owncloud/cloud-logo-invert.svg"
+    "big": "themes/owncloud/cloud-logo-invert.svg",
+    "loginBackground": "themes/owncloud/background.jpg"
   }
 }
